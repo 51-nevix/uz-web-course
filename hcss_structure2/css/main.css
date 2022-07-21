@@ -1,0 +1,43 @@
+.item1 {
+    border: 2px solid;
+    background-color: red;
+    height: 100px;
+    width: 500px;
+    margin-left: 100px;
+    position: relative;
+}
+
+.item2 {
+    border: 2px solid;
+    background-color: green;
+    height: 300px;
+    width: 500px;
+    margin-left: 100px;
+    position: relative;
+}
+
+.item3 {
+    border: 2px solid;
+    background-color: violet;
+    height: 100px;
+    width: 500px;
+    margin-left: 100px;
+    position: absolute;
+}
+
+.item4 {
+    border: 2px solid;
+    background-color: blue;
+    height: 500px;
+    width: 100px;
+    position: absolute;
+}
+
+.item5 {
+    border: 2px solid;
+    background-color: blue;
+    height: 500px;
+    width: 100px;
+    margin-left: 600px;
+    position: absolute;
+}
