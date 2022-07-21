@@ -1,0 +1,39 @@
+.item1 {
+    border: 2px solid;
+    border-color: red;
+    width: 400px;
+    height: 520px;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 190px;
+}
+
+.item2 {
+    border: 2px solid;
+    border-color: green;
+    width: 390px;
+    height: 100px;
+    position: absolute;
+    margin-left: 505px;
+    margin-top: 200px;
+}
+
+.item3 {
+    border: 2px solid;
+    border-color: blue;
+    width: 390px;
+    height: 295px;
+    position: absolute;
+    margin-left: 505px;
+    margin-top: 305px;
+}
+
+.item4 {
+    border: 2px solid;
+    border-color: blue;
+    width: 390px;
+    height: 100px;
+    position: absolute;
+    margin-left: 505px;
+    margin-top: 605px;
+}
